@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://alahpeith.wonderroute.com/sitemap.xml
